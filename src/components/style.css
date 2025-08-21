@@ -424,7 +424,7 @@ hr {
 
 .product-card button {
   background: #28a745;
-  color: white;
+  color: rgb(0, 0, 0);
   padding: 10px;
   border: none;
   border-radius: 5px;
